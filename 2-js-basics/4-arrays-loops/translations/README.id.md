@@ -1,12 +1,12 @@
 # Dasar-dasar JavaScript: Array dan Loop
 
-![Dasar-dasar JavaScript - Array](../images/webdev101-js-arrays.png)
+![Dasar-dasar JavaScript - Array](/sketchnotes/webdev101-js-arrays.png)
 
 > Sketsa oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Kuis Pra-Kuliah
 
-[Kuis pra-Kuliah](./.github/pre-lecture-quiz.id.md)
+[Kuis pra-Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/13?loc=id)
 
 Pelajaran ini mencakup dasar-dasar JavaScript, bahasa yang menyediakan interaktivitas di web. Dalam pelajaran ini, Anda akan belajar tentang array dan loop, yang digunakan untuk memanipulasi data.
 
@@ -126,15 +126,15 @@ for (let i = 0; i < rasaRasaEsKrim.length; i++) {
 
 ## 🚀 Tantangan
 
-Ada cara lain untuk melakukan perulangan pada array selain perulangan for dan while. Ada [forEach](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of), dan [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Tulis ulang loop array Anda menggunakan salah satu dari teknik ini.
+Ada cara lain untuk melakukan perulangan pada array selain perulangan for dan while. Ada [forEach](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach), [for-of](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/for...of), dan [map](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array/map). Tulis ulang loop array Anda menggunakan salah satu dari teknik ini.
 
 ## Kuis Pasca-Kuliah
 
-[Kuis pasca-kuliah](./.github/post-lecture-quiz.id.md)
+[Kuis pasca-kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/14?loc=id)
 
 ## Review & Belajar Mandiri
 
-Array dalam JavaScript memiliki banyak metode yang menyertainya, sangat berguna untuk manipulasi data. [Bacalah tentang metode ini](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) dan coba beberapa di antaranya (seperti push, pop, slice dan splice) pada array kreasi Anda.
+Array dalam JavaScript memiliki banyak metode yang menyertainya, sangat berguna untuk manipulasi data. [Bacalah tentang metode ini](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Array) dan coba beberapa di antaranya (seperti push, pop, slice dan splice) pada array kreasi Anda.
 
 ## Tugas
 

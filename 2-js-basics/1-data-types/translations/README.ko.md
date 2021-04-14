@@ -1,10 +1,10 @@
 # JavaScript 기초: 데이터 타입
 
-![JavaScript Basics - Data types](../images/webdev101-js-datatypes.png)
+![JavaScript Basics - Data types](/sketchnotes/webdev101-js-datatypes.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## 강의 전 퀴즈
-[Pre-lecture quiz](../.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7?loc=ko)
 
 해당 강의에서는 웹에서 상호작용을 제공하는 언어인 JavaScript의 기초를 다룹니다. 
 
@@ -176,7 +176,7 @@ let myString2 = "World";
 - `let myTrueBool = true`
 - `let myFalseBool = false`
 
-✅ 변수가 논리 자료형이 `true`로 설정되면 '참'으로 간주될 수 있습니다. 흥미롭게도, JavaScript에서는 [거짓으로 정의되지 않는다면 모든 값은 참입니다](https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
+✅ 변수가 논리 자료형이 `true`로 설정되면 '참'으로 간주될 수 있습니다. 흥미롭게도, JavaScript에서는 [거짓으로 정의되지 않는다면 모든 값은 참입니다](https://developer.mozilla.org/docs/Glossary/Truthy).
 
 ---
 
@@ -185,7 +185,7 @@ let myString2 = "World";
 JavaScript는 때때로 놀라운 방법으로 데이터 타입을 처리하는 것으로 유명합니다. 'gotchas'에 대해 약간 알아보세요. 예시: 대소문자 구분은 물릴 수 있습니다! 콘솔에서 다음을 시도하십시오: `let age = 1; let Age = 2; age == Age` (resolves `false` -- why?). 다른 문제를 찾을 수 있습니까?
 
 ## 강의 후 퀴즈
-[Post-lecture quiz](../.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8?loc=ko)
 
 ## 리뷰 & 자기주도 학습
 

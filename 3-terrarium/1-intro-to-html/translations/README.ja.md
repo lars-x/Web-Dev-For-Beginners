@@ -1,11 +1,11 @@
 # テラリウムプロジェクト その1: HTML 入門
 
-![Introduction to HTML](images/webdev101-html.png)
+![Introduction to HTML](/sketchnotes/webdev101-html.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
-## レクチャー前クイズ
+## レッスン前の小テスト
 
-[レクチャー前クイズ](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15)
+[レッスン前の小テスト](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/15?loc=ja)
 
 ### イントロダクション
 
@@ -17,7 +17,7 @@ HTML (HyperText Markup Language) は、Web の「骨格」です。CSS が HTML 
 
 コンピュータ上に 'terrarium' というフォルダを作成し、その中に 'index.html' というファイルを作成します。テラリウムのフォルダを作成した後、Visual Studio Code で新しい VS Code ウィンドウを開き、「フォルダを開く」をクリックして新しいフォルダに移動することで、この作業を行うことができます。エクスプローラペインの「ファイル」ボタンをクリックして、新しいファイルを作成してください。
 
-![explorer in VS Code](images/vs-code-index.png)
+![explorer in VS Code](../images/vs-code-index.png)
 
 もしくは
 
@@ -75,7 +75,7 @@ HTML ドキュメントの 'head' 領域には、Web ページに関する重要
 </head>
 ```
 
-✅ このように viewport の meta タグを設定するとどうなるでしょうか: `<meta name="viewport" content="width=600">`? [viewport](https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag) についてはこちらをご覧ください。
+✅ このように viewport の meta タグを設定するとどうなるでしょうか: `<meta name="viewport" content="width=600">`? [viewport](https://developer.mozilla.org/docs/Mozilla/Mobile/Viewport_meta_tag) についてはこちらをご覧ください。
 
 ---
 
@@ -215,15 +215,15 @@ HTML では、.html ファイルにタグを追加して Web ページの要素�
 
 HTMLに はまだ遊んで楽しいワイルドな「古い」タグがいくつかありますが、[これらのタグ](https://developer.mozilla.org/ja/docs/Web/HTML/Element#Obsolete_and_deprecated_elements)のような非推奨のタグをマークアップに使うべきではありません。それでも、古い `<marquee>` タグを使って h1 タイトルを水平方向にスクロールさせることはできますか？(もしそうする場合は、後から削除することを忘れないでください)
 
-## レクチャー後クイズ
+## レッスン後の小テスト
 
-[レクチャー後クイズ](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16)
+[レッスン後の小テスト](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/16?loc=ja)
 
 ## 復習と自己学習
 
 HTML は、今日のウェブを構築するのに役立ってきた「試行錯誤された」ビルディングブロックシステムです。古いタグと新しいタグを研究することで、その歴史について少し学びましょう。あるタグが非推奨になり、あるタグが追加された理由がわかりますか？将来的にはどのようなタグが導入されるかもしれませんか？
 
-Web やモバイル向けのサイト構築については、[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=cxaall-4621-cxall) で詳しく解説しています。
+Web やモバイル向けのサイト構築については、[Microsoft Learn](https://docs.microsoft.com/learn/modules/build-simple-website/?WT.mc_id=academic-13441-cxa) で詳しく解説しています。
 
 
 ## 課題

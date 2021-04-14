@@ -2,11 +2,11 @@
 
 Questa lezione tratta delle basi dei linguaggi di programmazione. Gli argomenti trattati qui si applicano alla maggior parte dei moderni linguaggi di programmazione di oggi. Nella sezione 'Strumenti Necessari' conoscerete utili software che vi aiuteranno come programmatore.
 
-![Introduzione alla  Programmazione](../webdev101-programming.png)
+![Introduzione alla  Programmazione](/sketchnotes/webdev101-programming.png)
 > Sketchnote di [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Quiz Pre-Lezione
-[Quiz Pre-Lezione](.github/pre-lecture-quiz.md)
+[Quiz Pre-Lezione](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/1?loc=it)
 
 ## Introduzione
 
@@ -124,7 +124,7 @@ Molti browser dispongono di *strumenti per lo sviluppatore* (DevTools) che conte
 
 #### Popolari Browser e DevTools
 
-- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium)
+- [Edge](https://docs.microsoft.com/microsoft-edge/devtools-guide-chromium?WT.mc_id=academic-13441-cxa)
 - [Chrome](https://sviluppatori.google.com/web/tools/chrome-devtools/)
 - [Firefox](https://sviluppatore.mozilla.org/docs/Tools)
 
@@ -140,22 +140,22 @@ Le alternative per la riga di comando differiriscono in base al sistema operativ
 
 #### Windows
 
-- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7) 💻
-- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands) (also known as CMD) 💻
-- [Windows Terminal](https://docs.microsoft.com/windows/terminal/)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/overview?view=powershell-7?WT.mc_id=academic-13441-cxa) 💻
+- [Command Line](https://docs.microsoft.com/windows-server/administration/windows-commands/windows-commands?WT.mc_id=academic-13441-cxa) (also known as CMD) 💻
+- [Windows Terminal](https://docs.microsoft.com/windows/terminal/?WT.mc_id=academic-13441-cxa)
 - [mintty](https://mintty.github.io/)
   
 #### MacOS
 
 - [Terminal](https://support.apple.com/guide/terminal/open-or-quit-terminal-apd5265185d-f365-44cb-8b09-71a064a42125/mac) 💻
 - [iTerm](https://iterm2.com/)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-7?WT.mc_id=academic-13441-cxa)
 
 #### Linux
 
 - [Bash](https://www.gnu.org/software/bash/manual/html_node/index.html) 💻
 - [KDE Konsole](https://docs.kde.org/trunk5/en/applications/konsole/index.html)
-- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7)
+- [Powershell](https://docs.microsoft.com/powershell/scripting/install/installing-powershell-core-on-linux?view=powershell-7?WT.mc_id=academic-13441-cxa)
 
 #### Popolari Strumenti da Riga di Comando
 
@@ -181,7 +181,7 @@ Quando uno sviluppatore vuole imparare qualcosa di nuovo, per la maggior parte d
 Confrontate alcuni linguaggi di programmazione. Quali sono i tratti univoci di  JavaScript rispetto a Java? E COBOL rispetto a Go?
 
 ## Quiz Post-Lezione
-[Quiz Post-Lezione](.github/post-lecture-quiz.md)
+[Quiz Post-Lezione](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/2?loc=it)
 
 ## Revisione e Auto Istruzione
 

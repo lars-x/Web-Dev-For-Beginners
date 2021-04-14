@@ -1,12 +1,12 @@
 # Dasar-dasar JavaScript: Tipe Data
 
-![Dasar-dasar JavaScript - Tipe data](../images/webdev101-js-datatypes.png)
+![Dasar-dasar JavaScript - Tipe data](/sketchnotes/webdev101-js-datatypes.png)
 
 > Catatan sketsa oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Kuis Pra-Kuliah
 
-[Kuis pra-Kuliah](.github/pre-lecture-quiz.id.md)
+[Kuis pra-Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/7?loc=id)
 
 Pelajaran ini mencakup dasar-dasar JavaScript, bahasa yang menyediakan interaktivitas di web.
 
@@ -178,7 +178,7 @@ Boolean hanya dapat berupa dua nilai: `true` atau `false`. Boolean dapat membant
 - `let myTrueBool = true`
 - `let myFalseBool = false`
 
-✅ Variabel dapat dianggap 'benar (truthy)' jika dievaluasi ke boolean `true`. Menariknya, di JavaScript, [semua nilai adalah benar (truthy) kecuali jika didefinisikan sebagai salah](https://developer.mozilla.org/en-US/docs/Glossary/Truthy).
+✅ Variabel dapat dianggap 'benar (truthy)' jika dievaluasi ke boolean `true`. Menariknya, di JavaScript, [semua nilai adalah benar (truthy) kecuali jika didefinisikan sebagai salah](https://developer.mozilla.org/docs/Glossary/Truthy).
 
 ---
 
@@ -188,7 +188,7 @@ JavaScript terkenal karena cara yang mengejutkan dalam menangani tipe data pada 
 
 ## Kuis Pasca-Kuliah
 
-[Kuis pasca-kuliah](.github/post-lecture-quiz.id.md)
+[Kuis pasca-kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/8?loc=id)
 
 ## Review & Belajar Mandiri
 

@@ -1,11 +1,11 @@
 # テラリウムプロジェクト その3: DOM の操作とクロージャ
 
-![DOM and a closure](images/webdev101-js.png)
+![DOM and a closure](/sketchnotes/webdev101-js.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
-## レクチャー前クイズ
+## レッスン前の小テスト
 
-[レクチャー前クイズ](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/19)
+[レッスン前の小テスト](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/19?loc=ja)
 
 ### イントロダクション
 
@@ -19,7 +19,7 @@ DOM (Document Object Model) を操作することは、Web  開発の重要な�
 
 DOM をツリーと考え、Web ページのドキュメントを操作できるすべての方法を表しています。様々な API (Application Program Interfaces) が書かれており、プログラマーが自分の好きなプログラミング言語を使って DOM にアクセスし、編集、変更、再配置、その他の管理ができるようになっています。
 
-![DOM tree representation](./images/dom-tree.png)
+![DOM tree representation](../images/dom-tree.png)
 
 > DOM とそれを参照する HTML マークアップの表現。[Olfa Nasraoui](https://www.researchgate.net/publication/221417012_Profile-Based_Focused_Crawler_for_Social_Media-Sharing_Websites) より
 
@@ -34,7 +34,7 @@ DOM をツリーと考え、Web ページのドキュメントを操作できる
 terrarium フォルダ内に `script.js` というファイルを作成します。このファイルを `<head>` セクションにインポートします。
 
 ```html
-	<script src="./script.js" defer></script>
+<script src="./script.js" defer></script>
 ```
 
 > 注: HTML ファイルが完全に読み込まれた後にのみ JavaScript を実行できるようにするために、外部の JavaScript ファイルを HTML ファイルにインポートする際には `defer` を使用してください。また、`async` 属性を使用することもできます。これは HTML ファイルのパース中にスクリプトを実行できるようにしますが、私たちの場合は、ドラッグスクリプトを実行する前に HTML 要素を完全に利用できるようにしておくことが重要です。
@@ -46,7 +46,7 @@ terrarium フォルダ内に `script.js` というファイルを作成します
 
 ### タスク
 
-```html
+```javascript
 dragElement(document.getElementById('plant1'));
 dragElement(document.getElementById('plant2'));
 dragElement(document.getElementById('plant3'));
@@ -141,7 +141,7 @@ function pointerDrag(e) {
 
 `pos4 = e.clientY` の下にポインタイベントの操作を2つ追加して、初期関数を完成させます。
 
-```html
+```javascript
 document.onpointermove = elementDrag;
 document.onpointerup = stopElementDrag;
 ```
@@ -191,7 +191,7 @@ function stopElementDrag() {
 
 これでプロジェクトが完成しました!
 
-🥇おめでとうございます。素敵なテラリウムが完成しましたね。 ![finished terrarium](./images/terrarium-final.png)
+🥇おめでとうございます。素敵なテラリウムが完成しましたね。 ![finished terrarium](../images/terrarium-final.png)
 
 ---
 
@@ -199,9 +199,9 @@ function stopElementDrag() {
 
 新しいイベントハンドラをクロージャに追加して、植物にもっと何かをするようにします。例えば、植物をダブルクリックして前の方に持ってきます。創造力を発揮してください。
 
-## レクチャー後クイズ
+## レッスン後の小テスト
 
-[レクチャー後クイズ](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/20)
+[レッスン後の小テスト](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/20?loc=ja)
 
 ## 復習と自己学習
 

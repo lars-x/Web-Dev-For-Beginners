@@ -5,7 +5,17 @@
       <label for="locale">locale</label>
       <select v-model="locale">
         <option>en</option>
-        <option>fr</option>
+        <option>es</option>
+        <option>gr</option>
+        <option>hi</option>
+        <option>id</option>
+        <option>it</option>
+        <option>ko</option>
+        <option>ms</option>
+        <option>nl</option>
+        <option>zh_cn</option>
+        <option>zh_tw</option>
+
       </select>
     </nav>
     <div id="app">
@@ -28,12 +38,19 @@ export default {
     Quiz,
   },
   data() {
-    return { locale: "en" };
+    return {
+      locale: "en",
+    };
   },
   watch: {
     locale(val) {
       this.$root.$i18n.locale = val;
     },
+  },
+  created() {
+    if (this.$route.query.loc) {
+      this.locale = this.$route.query.loc;
+    }
   },
 };
 </script>
@@ -97,4 +114,3 @@ h3,
   margin: 4px auto;
 }
 </style>
-

@@ -1,6 +1,6 @@
 # JavaScript Basics: Making Decisions
 
-![JavaScript Basics - Making decisions](images/webdev101-js-decisions.png)
+![JavaScript Basics - Making decisions](/sketchnotes/webdev101-js-decisions.png)
 > Sketchnote by [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Pre-Lecture Quiz
@@ -10,6 +10,7 @@ Making decisions and controlling the order in which your code runs makes your co
 
 [![Making Decisions](https://img.youtube.com/vi/SxTp8j-fMMY/0.jpg)](https://youtube.com/watch?v=SxTp8j-fMMY "Making Decisions")
 
+> Click the image above for a video about making decisions.
 ## A Brief Recap on Booleans
 
 Booleans can be only two values: `true` or `false`. Booleans help make decisions on which lines of code should run when certain conditions are met.
@@ -165,7 +166,7 @@ Create a program that is written first with logical operators, and then rewrite 
 
 ## Review & Self Study
 
-Read more about the many operators available to the user [on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
+Read more about the many operators available to the user [on MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators).
 
 Go through Josh Comeau's wonderful [operator lookup](https://joshwcomeau.com/operator-lookup/)!
 

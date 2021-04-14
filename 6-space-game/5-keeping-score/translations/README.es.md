@@ -2,7 +2,7 @@
 
 ![video](video-url)
 
-## [Pre-lecture prueba](../.github/pre-lecture-quiz.md)
+## [Pre-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/37)
 
 En esta lección, aprenderá cómo agregar puntos a un juego y calcular vidas.
 
@@ -17,7 +17,7 @@ ctx.textAlign = "right";
 ctx.fillText("show this on the screen", 0, 0);
 ```
 
-✅ Lea más sobre [cómo agregar texto a un lienzo](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text), ¡y siéntase libre de hacer que el suyo se vea más elegante!
+✅ Lea más sobre [cómo agregar texto a un lienzo](https://developer.mozilla.org/docs/Web/API/Canvas_API/Tutorial/Drawing_text), ¡y siéntase libre de hacer que el suyo se vea más elegante!
 
 ## La vida, como concepto de juego
 
@@ -173,7 +173,7 @@ Al final de este trabajo, deberías ver las pequeñas naves de 'vida' en la part
 
 🚀Challenge: Tu código está casi completo. ¿Puedes imaginar tus próximos pasos?
 
-## [Post-lecture prueba](../.github/post-lecture-quiz.md)
+## [Post-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/38)
 
 ## Revisión y autoestudio
 

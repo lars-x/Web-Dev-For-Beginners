@@ -20,10 +20,10 @@ To handle events (button clicking, typing, etc.), we register **event listeners*
 
 There are [dozens of events](https://developer.mozilla.org/docs/Web/Events) available for you to listen to when creating an application. Basically anything a user does on a page raises an event, which gives you a lot of power to ensure they get the experience you desire. Fortunately, you'll normally only need a small handful of events. Here's a few common ones (including the two we'll use when creating our game):
 
-- [click](https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event): The user clicked on something, typically a button or hyperlink
-- [contextmenu](https://developer.mozilla.org/en-US/docs/Web/API/Element/contextmenu_event): The user clicked the right mouse button
-- [select](https://developer.mozilla.org/en-US/docs/Web/API/Element/select_event): The user highlighted some text
-- [input](https://developer.mozilla.org/en-US/docs/Web/API/Element/input_event): The user input some text
+- [click](https://developer.mozilla.org/docs/Web/API/Element/click_event): The user clicked on something, typically a button or hyperlink
+- [contextmenu](https://developer.mozilla.org/docs/Web/API/Element/contextmenu_event): The user clicked the right mouse button
+- [select](https://developer.mozilla.org/docs/Web/API/Element/select_event): The user highlighted some text
+- [input](https://developer.mozilla.org/docs/Web/API/Element/input_event): The user input some text
 
 ## Creating the game
 
@@ -48,7 +48,7 @@ We're going to need three total files: **index.html**, **script.js** and **style
 mkdir typing-game && cd typing-game
 
 # Windows
-md typing-game && cd typing game
+md typing-game && cd typing-game
 ```
 
 - Open Visual Studio Code
@@ -103,7 +103,7 @@ It's always best to develop iteratively to see how things look. Let's launch our
 - Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) by following the link and clicking **Install**
   - You will be prompted by the browser to open Visual Studio Code, and then by Visual Studio Code to perform the installation
   - Restart Visual Studio Code if prompted
-- Once installed, in Visual Studio Code, click Ctl-Shift-P (or Cmd-Shift-P) to open the command pallate
+- Once installed, in Visual Studio Code, click Ctrl-Shift-P (or Cmd-Shift-P) to open the command pallate
 - Type **Live Server: Open with Live Server**
   - Live Server will start hosting your application
 - Open a browser and navigate to **https://localhost:5500**
@@ -190,6 +190,8 @@ const typedValueElement = document.getElementById('typed-value');
 Take a minute to watch a video on using `const`, `let` and `var`
 
 [![Types of variables](https://img.youtube.com/vi/JNIXfGiDWM8/0.jpg)](https://youtube.com/watch?v=JNIXfGiDWM8 "Types of variables")
+
+> Click the image above for a video about variables.
 
 ### Add start logic
 
@@ -330,7 +332,7 @@ Add more functionality
 
 ## Review & Self Study
 
-Read up on [all the events available](https://developer.mozilla.org/en-US/docs/Web/Events) to the developer via the web browser, and consider the scenarios in which you would use each one.
+Read up on [all the events available](https://developer.mozilla.org/docs/Web/Events) to the developer via the web browser, and consider the scenarios in which you would use each one.
 
 ## Assignment
 

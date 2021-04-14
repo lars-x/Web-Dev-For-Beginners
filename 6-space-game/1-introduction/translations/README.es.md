@@ -2,7 +2,7 @@
 
 ![video](video-url)
 
-## [Pre-lecture prueba](../.github/pre-lecture-quiz.md)
+## [Pre-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/29)
 
 ### Herencia y composición en el desarrollo de juegos
 
@@ -27,7 +27,7 @@ Todo lo que describimos anteriormente son comportamientos que pueden tener los o
 
 La idea es usar `classes` junto con `inheritance` para lograr agregar un cierto comportamiento a una clase.
 
-✅ La herencia es un concepto importante de comprender. Obtenga más información en el [artículo de MDN sobre herencia](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
+✅ La herencia es un concepto importante de comprender. Obtenga más información en el [artículo de MDN sobre herencia](https://developer.mozilla.org/docs/Web/JavaScript/Inheritance_and_the_prototype_chain).
 
 Expresado a través de código, un objeto de juego normalmente puede verse así:
 
@@ -207,10 +207,10 @@ A medida que las cosas se complican cuando tu juego crece, este patrón permanec
 
 🚀Desafío: Piense en cómo el patrón pub-sub puede mejorar un juego. ¿Qué partes deberían emitir eventos y cómo debería reaccionar el juego ante ellos? Ahora tienes la oportunidad de ser creativo, pensar en un nuevo juego y en cómo podrían comportarse sus partes.
 
-## [Post-lecture prueba](../.github/post-lecture-quiz.md)
+## [Post-lecture prueba](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/30)
 
 ## Revisión y autoestudio
 
-Obtenga más información sobre Pub / Sub al [leer sobre él](https://docs.microsoft.com/en-us/azure/architecture/patterns/publisher-subscriber).
+Obtenga más información sobre Pub / Sub al [leer sobre él](https://docs.microsoft.com/azure/architecture/patterns/publisher-subscriber?WT.mc_id=academic-13441-cxa).
 
 **Tarea**: [Mock up a game](assignment.es.md)

@@ -2,7 +2,7 @@
 
 ## 강의 전 퀴즈
 
-[Pre-lecture quiz](../.github/pre-lecture-quiz.md)
+[Pre-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/27?loc=ko)
 
 ### 소개
 
@@ -22,7 +22,7 @@ Performance 탭에는 Profiling 도구가 있습니다. 웹 사이트를 열고 
 
 ![Edge profiler](.././images/profiler.png)
 
-✅ Edge에서 Performance 패널에서 [Microsoft Documentation](https://docs.microsoft.com/en-us/microsoft-edge/devtools-guide/performance)를 방문하세요
+✅ Edge에서 Performance 패널에서 [Microsoft Documentation](https://docs.microsoft.com/microsoft-edge/devtools-guide/performance?WT.mc_id=academic-13441-cxa)를 방문하세요
 
 > Tip: 웹 사이트의 시작 시간을 순수하게 보려면, 브라우저의 캐시를 지우세요
 
@@ -147,7 +147,7 @@ function drawIcon(value) {
 
 ## 강의 후 퀴즈
 
-[Post-lecture quiz](../.github/post-lecture-quiz.md)
+[Post-lecture quiz](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/28?loc=ko)
 
 ## 리뷰 & 자기주도 학습
 

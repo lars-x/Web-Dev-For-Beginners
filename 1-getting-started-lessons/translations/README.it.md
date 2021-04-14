@@ -1,12 +1,12 @@
-# Getting Started with Web Development
+# Iniziare con lo Sviluppo Web
 
 In questa sezione del curriculum, vi saranno introdotti concetti non relativi al progetto importanti per diventare uno sviluppatore professionista.
 
 ### Argomenti
 
-1. [Introduzione ai Linguaggi di Programmazione e agli Strumenti Necessari](1-intro-to-programming-languages/translations/README.id.md)
-2. [Concetti base di GitHub](2-github-basics/translations/README.it.md)
-3. [Concetti base di Accessibilità](3-accessibility/translations/README.it.md)
+1. [Introduzione ai Linguaggi di Programmazione e agli Strumenti Necessari](../1-intro-to-programming-languages/translations/README.it.md)
+2. [Concetti base di GitHub](../2-github-basics/translations/README.it.md)
+3. [Concetti base di Accessibilità](../3-accessibility/translations/README.it.md)
 
 ### Riconoscimenti
 

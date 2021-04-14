@@ -1,10 +1,11 @@
 # Membuat Halaman Web yang Dapat Diakses (oleh Semua Orang)
 
-![Semua Tentang Aksesibilitas](../webdev101-a11y.png)
+![Semua Tentang Aksesibilitas](/sketchnotes/webdev101-a11y.png)
 > Catatan sketsa oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Kuis Pra-Kuliah
-[Kuis pra-kuliah](.github/pre-lecture-quiz.id.md)
+
+[Kuis pra-kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/5?loc=id)
 
 > Kekuatan Web ada dalam universalitasnya. Akses oleh semua orang tanpa memandang disabilitas merupakan aspek penting.
 >
@@ -24,7 +25,7 @@ Pada dasarnya, pembaca layar akan membaca halaman dari atas ke bawah dengan suar
 
 Setiap pengembang web harus membiasakan diri dengan pembaca layar. Seperti yang disorot di atas, itu adalah klien yang akan digunakan pengguna Anda. Sama seperti saat Anda memahami cara kerja browser, Anda juga harus mempelajari cara kerja pembaca layar. Untungnya, pembaca layar sudah terpasang di sebagian besar sistem operasi, dan banyak browser berisi ekstensi untuk meniru pembaca layar.
 
-✅ Coba ekstensi atau alat browser pembaca layar. Salah satu yang hanya berfungsi di Windows adalah [JAWS](https://webaim.org/articles/jaws/). Peramban (browser) juga memiliki alat bawaan yang dapat digunakan untuk tujuan ini; lihat [alat browser Edge yang berfokus pada aksesibilitas ini](https://support.microsoft.com/en-us/help/4000734/microsoft-edge-accessibility-features).
+✅ Coba ekstensi atau alat browser pembaca layar. Salah satu yang hanya berfungsi di Windows adalah [JAWS](https://webaim.org/articles/jaws/). Peramban (browser) juga memiliki alat bawaan yang dapat digunakan untuk tujuan ini; lihat [alat browser Edge yang berfokus pada aksesibilitas ini](https://support.microsoft.com/help/4000734/microsoft-edge-accessibility-features).
 
 ### Pemeriksa kontras
 
@@ -112,7 +113,7 @@ Sebagai bonus tambahan untuk memastikan situs Anda dapat diakses oleh semua, And
 Bayangkan halaman berikut:
 
 | Produk       | Deskripsi        | Pesan        |
-|--------------|------------------|--------------|
+| ------------ | ---------------- | ------------ |
 | Widget       | [Deskripsi]('#') | [Pesan]('#') |
 | Widget super | [Deskripsi]('#') | [Pesan]('#') |
 
@@ -128,7 +129,7 @@ Anda dapat menggunakan `aria-label` untuk mendeskripsikan link jika format halam
 <a href="#" aria-label="Deskripsi widget">deskripsi</a>
 ```
 
-✅ Secara umum, menggunakan markup Semantik seperti yang dijelaskan di atas menggantikan penggunaan ARIA, tetapi terkadang tidak ada padanan semantik untuk berbagai widget HTML. Contoh yang bagus adalah Progressbar. Tidak ada HTML yang setara untuk bilah kemajuan, jadi Anda mengidentifikasi `<div>` generik untuk elemen ini dengan peran yang tepat dan nilai aria. [Dokumentasi MDN tentang ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) berisi informasi yang lebih berguna.
+✅ Secara umum, menggunakan markup Semantik seperti yang dijelaskan di atas menggantikan penggunaan ARIA, tetapi terkadang tidak ada padanan semantik untuk berbagai widget HTML. Contoh yang bagus adalah Progressbar. Tidak ada HTML yang setara untuk bilah kemajuan, jadi Anda mengidentifikasi `<div>` generik untuk elemen ini dengan peran yang tepat dan nilai aria. [Dokumentasi MDN tentang ARIA](https://developer.mozilla.org/docs/Web/Accessibility/ARIA) berisi informasi yang lebih berguna.
 
 ```html
 <div id="percent-loaded" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
@@ -208,7 +209,8 @@ Ambil HTML ini dan tulis ulang agar dapat diakses semaksimal mungkin, dengan str
 ```
 
 ## Kuis Pasca Kuliah
-[Kuis pasca kuliah](.github/post-lecture-quiz.id.md)
+
+[Kuis pasca kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/6?loc=id)
 
 ## Review & Belajar Mandiri
 

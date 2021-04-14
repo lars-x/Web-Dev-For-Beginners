@@ -1,12 +1,12 @@
 # Dasar-dasar JavaScript: Membuat Keputusan
 
-![Dasar-dasar JavaScript - Membuat Keputusan](../images/webdev101-js-decisions.png)
+![Dasar-dasar JavaScript - Membuat Keputusan](/sketchnotes/webdev101-js-decisions.png)
 
 > Sketsa oleh [Tomomi Imura](https://twitter.com/girlie_mac)
 
 ## Kuis Pra-Kuliah
 
-[Kuis pra-Kuliah](./.github/pre-lecture-quiz.id.md)
+[Kuis pra-Kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/11?loc=id)
 
 Membuat keputusan dan mengontrol urutan kode Anda berjalan membuat kode Anda dapat digunakan kembali dan kuat. Bagian ini membahas sintaks untuk mengontrol aliran data di JavaScript dan signifikansinya saat digunakan dengan tipe data Boolean.
 
@@ -162,11 +162,11 @@ Buat program yang ditulis pertama kali dengan operator logika, lalu tulis ulang 
 
 ## Kuis Pasca-Kuliah
 
-[Kuis pasca-kuliah](.github/post-lecture-quiz.md)
+[Kuis pasca-kuliah](https://nice-beach-0fe9e9d0f.azurestaticapps.net/quiz/12?loc=id)
 
 ## Review & Belajar Mandiri
 
-Baca lebih lanjut tentang banyak operator yang tersedia untuk pengguna [di MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators).
+Baca lebih lanjut tentang banyak operator yang tersedia untuk pengguna [di MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference/Operators).
 
 Lihat [pencarian operator](https://joshwcomeau.com/operator-lookup/) oleh Josh Comeau yang luar biasa!
 
